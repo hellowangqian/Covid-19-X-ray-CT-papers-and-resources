@@ -1,5 +1,7 @@
 # A list of papers and datasets on X-ray or CT image based Covid-19 screening
 ## Papers/Pre-prints
+* Quantification of Tomographic Patterns associated with COVID-19 from Chest CT. [arXiv20200406](https://arxiv.org/ftp/arxiv/papers/2004/2004.01279.pdf)
+* Detection of Coronavirus (COVID-19) Associated Pneumonia based on Generative Adversarial Networks and a Fine-Tuned Deep Transfer Learning Model using Chest X-ray Dataset. [arXiv20200406](https://arxiv.org/ftp/arxiv/papers/2004/2004.01184.pdf)
 * Diagnosing COVID-19 Pneumonia from X-Ray and CT Images using Deep Learning and Transfer Learning Algorithms [arXiv20200402](https://arxiv.org/ftp/arxiv/papers/2004/2004.00038.pdf)
 * Automated Methods for Detection and Classification Pneumonia based on X-Ray Images Using Deep Learning [arXiv20200401](https://arxiv.org/ftp/arxiv/papers/2003/2003.14363.pdf)
 * Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network [medRxive20200330](https://www.medrxiv.org/content/10.1101/2020.03.30.20047456v1.full.pdf)
