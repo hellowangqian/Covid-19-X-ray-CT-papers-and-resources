@@ -1,5 +1,9 @@
 # A list of papers and datasets on X-ray or CT image based Covid-19 screening
 ## Papers/Pre-prints
+* Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation and Diagnosis for COVID-19 [arXiv20200407](https://arxiv.org/ftp/arxiv/papers/2004/2004.02731.pdf)
+* COVID-CAPS: A CAPSULE NETWORK-BASED FRAMEWORK FOR IDENTIFICATION OF COVID-19 CASES FROM X-RAY IMAGES [arXiv20200407](https://arxiv.org/pdf/2004.02696.pdf)
+* Coronavirus Detection and Analysis on Chest CT with Deep Learning [arXiv20200407](https://arxiv.org/pdf/2004.02640.pdf)
+* FINDING COVID-19 FROM CHEST X-RAYS USING DEEP LEARNING ON A SMALL DATASET [arXiv20200407](https://arxiv.org/ftp/arxiv/papers/2004/2004.02060.pdf)
 * Quantification of Tomographic Patterns associated with COVID-19 from Chest CT. [arXiv20200406](https://arxiv.org/ftp/arxiv/papers/2004/2004.01279.pdf)
 * Detection of Coronavirus (COVID-19) Associated Pneumonia based on Generative Adversarial Networks and a Fine-Tuned Deep Transfer Learning Model using Chest X-ray Dataset. [arXiv20200406](https://arxiv.org/ftp/arxiv/papers/2004/2004.01184.pdf)
 * Diagnosing COVID-19 Pneumonia from X-Ray and CT Images using Deep Learning and Transfer Learning Algorithms [arXiv20200402](https://arxiv.org/ftp/arxiv/papers/2004/2004.00038.pdf)
