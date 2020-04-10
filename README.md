@@ -1,5 +1,6 @@
 # A list of papers and datasets on X-ray or CT image based Covid-19 screening
 ## Papers/Pre-prints
+* DeepCOVIDExplainer: Explainable COVID-19 Predictions Based on Chest X-ray Images [arXiv20200410](https://arxiv.org/pdf/2004.04582.pdf)
 * COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images [arXiv20200408](https://scirate.com/arxiv/2004.03042)
 * Harmony-Search and Otsu based System for Coronavirus Disease (COVID-19) Detection using Lung CT Scan Images [arXiv20200408](https://scirate.com/arxiv/2004.03431)
 * Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19 [arXive20200408](https://scirate.com/arxiv/2004.03399)
