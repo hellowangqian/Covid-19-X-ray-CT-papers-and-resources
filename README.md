@@ -18,6 +18,6 @@
 * Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia [arXive202002](https://arxiv.org/ftp/arxiv/papers/2002/2002.09334.pdf)
 * Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images [medRxiv20200225](https://www.medrxiv.org/content/10.1101/2020.02.23.20026930v1)
 * A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19) [medRxiv20200214](https://www.medrxiv.org/content/10.1101/2020.02.14.20023028v3.full.pdf)
-* Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT [Radiology20200319](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)
+* Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT [[Radiology20200319]](https://pubs.rsna.org/doi/10.1148/radiol.2020200905) [[Github]](https://github.com/bkong999/COVNet)
 ## Datasets
 * https://www.researchgate.net/post/updated_list_of_Coronavirus_Covid-19_dataset_and_other_Research_Resources
