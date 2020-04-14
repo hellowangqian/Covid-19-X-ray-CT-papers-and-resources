@@ -1,7 +1,12 @@
 # A list of papers and datasets on X-ray or CT image based Covid-19 screening
 ## Survey
+* Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review [[arXiv20200414]](https://arxiv.org/pdf/2004.05436.pdf)
+* Unveiling COVID-19 from Chest X-ray with deep learning: a hurdles race with small data [[arXiv20200414]](https://arxiv.org/pdf/2004.05405.pdf) [[Code]](https://github.com/EIDOSlab/unveiling-covid19-from-cxr)
 * Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation and Diagnosis for COVID-19 [arXiv20200407](https://arxiv.org/ftp/arxiv/papers/2004/2004.02731.pdf)
 ## Papers/Pre-prints
+* COVID-19 IDENTIFICATION IN CHEST X-RAY IMAGES ON FLAT AND HIERARCHICAL CLASSIFICATION SCENARIOS [[arXiv20200414]](https://arxiv.org/pdf/2004.05835.pdf)
+* Towards an Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images [[arXiv20200414]](https://arxiv.org/pdf/2004.05717.pdf)[[Code]](https://github.com/lindawangg/COVID-Net)
+* Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images [[arXiv20200414]](https://arxiv.org/pdf/2004.05645.pdf)
 * DeepCOVIDExplainer: Explainable COVID-19 Predictions Based on Chest X-ray Images [arXiv20200410](https://arxiv.org/pdf/2004.04582.pdf)
 * COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images [arXiv20200408](https://scirate.com/arxiv/2004.03042)
 * Harmony-Search and Otsu based System for Coronavirus Disease (COVID-19) Detection using Lung CT Scan Images [arXiv20200408](https://scirate.com/arxiv/2004.03431)
