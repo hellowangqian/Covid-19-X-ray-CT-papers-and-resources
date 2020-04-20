@@ -4,6 +4,8 @@
 * Unveiling COVID-19 from Chest X-ray with deep learning: a hurdles race with small data [[arXiv20200414]](https://arxiv.org/pdf/2004.05405.pdf) [[Code]](https://github.com/EIDOSlab/unveiling-covid19-from-cxr)
 * Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation and Diagnosis for COVID-19 [arXiv20200407](https://arxiv.org/ftp/arxiv/papers/2004/2004.02731.pdf)
 ## Papers/Pre-prints
+* A NEW MODIFIED DEEP CONVOLUTIONAL NEURAL NETWORK FOR DETECTING COVID-19 FROM X-RAY IMAGES [[arXiv20200420]](https://arxiv.org/pdf/2004.08052.pdf)
+* Iteratively Pruned Deep Learning Ensembles for COVID-19 Detection in Chest X-rays [[arXiv20200420]](https://arxiv.org/ftp/arxiv/papers/2004/2004.08379.pdf)
 * COVID-19 IDENTIFICATION IN CHEST X-RAY IMAGES ON FLAT AND HIERARCHICAL CLASSIFICATION SCENARIOS [[arXiv20200414]](https://arxiv.org/pdf/2004.05835.pdf)
 * Towards an Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images [[arXiv20200414]](https://arxiv.org/pdf/2004.05717.pdf)[[Code]](https://github.com/lindawangg/COVID-Net)
 * Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images [[arXiv20200414]](https://arxiv.org/pdf/2004.05645.pdf)
